@@ -1,0 +1,26 @@
+2022/11/21-22:58:02.106 428c Reusing MANIFEST C:\Users\arthu\Desktop\Nova pasta\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/21-22:58:02.107 428c Recovering log #498
+2022/11/21-22:58:02.178 428c Reusing old log C:\Users\arthu\Desktop\Nova pasta\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000498.log 
+2022/11/21-22:58:15.161 4c74 Level-0 table #510: started
+2022/11/21-22:58:15.188 4c74 Level-0 table #510: 1365684 bytes OK
+2022/11/21-22:58:15.190 4c74 Delete type=0 #498
+2022/11/21-22:58:26.220 4c98 Compacting 1@1 + 8@2 files
+2022/11/21-22:58:26.287 4c98 Generated table #511@1: 30738 keys, 2240110 bytes
+2022/11/21-22:58:26.342 4c98 Generated table #512@1: 23414 keys, 2276954 bytes
+2022/11/21-22:58:26.397 4c98 Generated table #513@1: 23378 keys, 2284177 bytes
+2022/11/21-22:58:26.453 4c98 Generated table #514@1: 22285 keys, 2262678 bytes
+2022/11/21-22:58:26.528 4c98 Generated table #515@1: 75553 keys, 2270699 bytes
+2022/11/21-22:58:26.582 4c98 Generated table #516@1: 39773 keys, 2280871 bytes
+2022/11/21-22:58:26.651 4c98 Generated table #517@1: 44531 keys, 2265082 bytes
+2022/11/21-22:58:26.700 4c98 Generated table #518@1: 49558 keys, 976179 bytes
+2022/11/21-22:58:26.700 4c98 Compacted 1@1 + 8@2 files => 16856750 bytes
+2022/11/21-22:58:26.701 4c98 compacted to: files[ 0 0 8 0 0 0 0 ]
+2022/11/21-22:58:26.701 4c98 Delete type=2 #500
+2022/11/21-22:58:26.701 4c98 Delete type=2 #501
+2022/11/21-22:58:26.701 4c98 Delete type=2 #502
+2022/11/21-22:58:26.701 4c98 Delete type=2 #503
+2022/11/21-22:58:26.701 4c98 Delete type=2 #504
+2022/11/21-22:58:26.701 4c98 Delete type=2 #505
+2022/11/21-22:58:26.701 4c98 Delete type=2 #506
+2022/11/21-22:58:26.701 4c98 Delete type=2 #507
+2022/11/21-22:58:26.701 4c98 Delete type=2 #510
